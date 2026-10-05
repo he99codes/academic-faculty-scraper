@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output and temp files
+*.json
+*.jsonl
+*.csv
+*.html
+*.log
+scratch/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Playwright
+.playwright/
+test-results/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
